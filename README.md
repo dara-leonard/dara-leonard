@@ -2,7 +2,6 @@
 - 🏠 Mayo
 - 📍 Galway
 - 🔭 Working @ SmartBear
-- 🌱 I’m currently learning React & AWS
 - 📫 How to reach me: darafleonard@gmail.com
 
 <!---
