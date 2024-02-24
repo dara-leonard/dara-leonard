@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dara Leonard
 - 🏠 Mayo
 - 📍 Galway
-- 🔭 Working @ SmartBear
+- 🔭 Working @ HPE
 - 📫 How to reach me: darafleonard@gmail.com
 
 <!---
